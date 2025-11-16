@@ -9,14 +9,5 @@
  <img alt="Legend" src="https://github.com/user-attachments/assets/cd8c1302-37eb-4016-8dfa-bfb54748bb5d">
 </picture>
 
-
-
-
-
-
-
-
-
-
-
-
+<h2>Code Review Video</h2>
+<p>Watch my code review <a href="https://youtu.be/KQWZkkFlBgY" target="_blank">here</a>.</p>
