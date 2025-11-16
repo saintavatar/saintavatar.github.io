@@ -1,6 +1,6 @@
 
 ![ironworker-i-am-not-getting-older-becoming-vector-54244663](https://github.com/user-attachments/assets/cd8c1302-37eb-4016-8dfa-bfb54748bb5d)
-![Code-Review](https://github.com/user-attachments/assets/7576afc2-dfe8-4e9f-a95a-0f0ed939c71b).
+
 # saintavatar.github.io
 
 <picture>
@@ -10,8 +10,7 @@
 </picture>
 
 
-Code Review:
-https://github.com/user-attachments/assets/7576afc2-dfe8-4e9f-a95a-0f0ed939c71b
+Code Review: ![Code-Review](https://github.com/user-attachments/assets/7576afc2-dfe8-4e9f-a95a-0f0ed939c71b).
 
 
 
