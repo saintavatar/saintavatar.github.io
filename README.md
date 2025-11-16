@@ -1,10 +1,10 @@
-![OIP](https://github.com/user-attachments/assets/ebd76df3-347c-458a-94bb-fcc4ddb75224)
+
 ![ironworker-i-am-not-getting-older-becoming-vector-54244663](https://github.com/user-attachments/assets/cd8c1302-37eb-4016-8dfa-bfb54748bb5d)
-![Code-Review}(https://github.com/user-attachments/assets/7576afc2-dfe8-4e9f-a95a-0f0ed939c71b).
+![Code-Review](https://github.com/user-attachments/assets/7576afc2-dfe8-4e9f-a95a-0f0ed939c71b).
 # saintavatar.github.io
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/ebd76df3-347c-458a-94bb-fcc4ddb75224">
+ <source media="(prefers-color-scheme: dark)" srcset="">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="Legend" src="https://github.com/user-attachments/assets/cd8c1302-37eb-4016-8dfa-bfb54748bb5d">
 </picture>
