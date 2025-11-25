@@ -17,4 +17,5 @@ My experience with Project Three and really the Project in its entirety has been
 
 
 <h2>Code Review Video</h2>
-<p>Watch my code review <a href="https://youtu.be/KQWZkkFlBgY" target="_blank">here</a>.</p>
+<p>Watch my code review <a href="{{ site.code_review_video }}" target="_blank">here</a>.</p>
+
