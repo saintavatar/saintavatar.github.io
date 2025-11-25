@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_options">
+        <item>All</item>
+        <item>Electronics</item>
+        <item>Tools</item>
+        <item>Misc</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="cyberpunk_yellow1">#FFD700</color>
+    <color name="cyberpunk_yellow2">#FFEA00</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Delete">Remove Item</string>
+    <string name="SMS_Permission">SMS Permission</string>
+    <string name="add_item">Add Item</string>
+    <string name="app_name">InventoryMate</string>
+    <string name="category_label">Category: %1$s</string>
+    <string name="check">Check Inventory</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_item">Enter item name</string>
+    <string name="export_csv">Export to CSV</string>
+    <string name="grant_permission1">This app sends SMS notifications for inventory, events, or goals. Please grant permission.</string>
+    <string name="grant_permission2">Grant permission.</string>
+    <string name="inventory_ok">Inventory levels are sufficient.</string>
+    <string name="inventory_title">Current Inventory</string>
+    <string name="item_name2">Item Name</string>
+    <string name="item_name_label">Item Name</string>
+    <string name="item_quantity2">Quantity</string>
+    <string name="item_quantity_label">Qty</string>
+    <string name="login_button">Sign-In</string>
+    <string name="logout">Logout</string>
+    <string name="min_quantity">Minimum Quantity</string>
+    <string name="new_password">New Password</string>
+    <string name="new_username">New Username</string>
+    <string name="password">Password</string>
+    <string name="permission_already_granted">Permission already granted.</string>
+    <string name="permission_denied">Permission denied. Notifications disabled.</string>
+    <string name="permission_granted">Permission granted. Notifications will be sent.</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="quantity_label">Qty: %1$d</string>
+    <string name="register_button">New Account</string>
+    <string name="register_button1">Register</string>
+    <string name="remove_item">Remove Item</string>
+    <string name="save_item">Save Item</string>
+    <string name="search_hint">Search by item name</string>
+    <string name="select_category">Select Category</string>
+    <string name="sms_failed">Failed to send SMS</string>
+    <string name="sms_send_failed">Failed to send SMS: %1$s</string>
+    <string name="sms_sent">SMS sent successfully</string>
+    <string name="sms_sent_success">SMS sent successfully.</string>
+    <string name="username">User Name</string>
+    <style name="SpinnerPopupStyle" parent="ThemeOverlay.AppCompat.Light">
+        
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    <style name="SpinnerTextStyle" parent="ThemeOverlay.AppCompat.Light">
+        
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    <style name="Theme.InventoryApp" parent="Theme.MaterialComponents.DayNight.NoActionBar"/>
+</resources>
