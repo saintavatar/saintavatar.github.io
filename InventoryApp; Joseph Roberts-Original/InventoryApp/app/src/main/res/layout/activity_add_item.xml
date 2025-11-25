@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp"
+    android:background="@color/cyberpunk_yellow2">
+
+    <EditText
+        android:id="@+id/input_item_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autofillHints="name"
+        android:hint="@string/item_name2"
+        android:inputType="textCapWords"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+
+        />
+
+    <EditText
+        android:id="@+id/input_item_quantity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autofillHints="Qty"
+        android:hint="@string/item_quantity2"
+        android:inputType="number"
+        android:maxLength="3"
+        android:importantForAccessibility="yes"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        />
+
+    <Button
+        android:id="@+id/save_item_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/save_item"
+        android:textColor="@color/cyberpunk_yellow2"
+        android:backgroundTint="@color/black"/>
+</LinearLayout>

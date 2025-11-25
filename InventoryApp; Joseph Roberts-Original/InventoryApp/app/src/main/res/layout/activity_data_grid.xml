@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/cyberpunk_yellow2">
+
+    <TextView
+        android:id="@+id/data_grid_title"
+        android:layout_width="323dp"
+        android:layout_height="54dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="16dp"
+        android:text="@string/Inventory"
+        android:textColor="@color/black"
+        android:textSize="24sp" />
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/inventory_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="8dp"
+        android:clipToPadding="false"
+        android:scrollbars="vertical"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        />
+
+
+    <Button
+        android:id="@+id/add_data_button"
+        android:text="@string/add_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:textColor="@color/cyberpunk_yellow2"
+        android:backgroundTint="@color/black"/>
+
+    <Button
+        android:id="@+id/remove_item_button"
+        android:text="@string/Delete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:textColor="@color/cyberpunk_yellow2"
+        android:backgroundTint="@color/black"/>
+
+
+</LinearLayout>
