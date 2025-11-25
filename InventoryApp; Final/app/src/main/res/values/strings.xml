@@ -1,0 +1,51 @@
+<resources>
+    <!-- App Identity -->
+    <string name="app_name">InventoryMate</string>
+
+    <!-- Authentication -->
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="login_button">Sign-In</string>
+    <string name="register_button">New Account</string>
+    <string name="new_username">New Username</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="register_button1">Register</string>
+
+    <!-- Inventory UI -->
+    <string name="inventory_title">Current Inventory</string>
+    <string name="add_item">Add Item</string>
+    <string name="remove_item">Remove Item</string>
+    <string name="logout">Logout</string>
+    <string name="search_hint">Search by item name</string>
+    <string name="min_quantity">Minimum Quantity</string>
+    <string name="quantity_label">Qty: %1$d</string>
+    <string name="category_label">Category: %1$s</string>
+    <string name="item_name_label">Item Name</string>
+    <string name="item_quantity_label">Qty</string>
+    <string name="inventory_ok">Inventory levels are sufficient.</string>
+    <string name="check">Check Inventory</string>
+    <string name="enter_item">Enter item name</string>
+    <string name="save_item">Save Item</string>
+    <string name="export_csv">Export to CSV</string>
+    <string name="item_name2">Item Name</string>
+    <string name="item_quantity2">Quantity</string>
+    <string name="Delete">Remove Item</string>
+    <string name="select_category">Select Category</string>
+
+
+
+    <!-- SMS Permission -->
+    <string name="SMS_Permission">SMS Permission</string>
+    <string name="grant_permission1">This app sends SMS notifications for inventory, events, or goals. Please grant permission.</string>
+    <string name="grant_permission2">Grant permission.</string>
+    <string name="permission_already_granted">Permission already granted.</string>
+    <string name="permission_granted">Permission granted. Notifications will be sent.</string>
+    <string name="permission_denied">Permission denied. Notifications disabled.</string>
+    <string name="sms_sent_success">SMS sent successfully.</string>
+    <string name="sms_send_failed">Failed to send SMS: %1$s</string>
+    <string name="sms_sent">SMS sent successfully</string>
+    <string name="sms_failed">Failed to send SMS</string>
+
+</resources>

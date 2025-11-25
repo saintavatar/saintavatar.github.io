@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SpinnerTextStyle" parent="ThemeOverlay.AppCompat.Light">
+        <!-- Selected item text color -->
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="SpinnerPopupStyle" parent="ThemeOverlay.AppCompat.Light">
+        <!-- Dropdown list items text color -->
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+</resources>

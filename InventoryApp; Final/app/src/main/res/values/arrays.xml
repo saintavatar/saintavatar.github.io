@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_options">
+        <item>All</item>
+        <item>Electronics</item>
+        <item>Tools</item>
+        <item>Misc</item>
+    </string-array>
+
+</resources>
