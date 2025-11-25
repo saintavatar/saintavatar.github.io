@@ -27,6 +27,8 @@ My app still has features that can be implemented, and I plan to continue tinker
 
 # Enhancement One: Software Design and Engineering
 
+---
+
 ## 📌 Brief Description of the Artifact
 **InventoryMate** is a Kotlin-based Android application designed to simplify inventory tracking for users managing supplies, tools, or stock.  
 Created in **Fall 2025**, the app allows users to:
@@ -85,5 +87,70 @@ Enhancing **InventoryMate** taught me how to:
 - Handling permission denial gracefully while maintaining app functionality  
 
 This process deepened my understanding of **Android lifecycle events**, **permission models**, and the importance of traceable logging in mobile development. It also reinforced the value of **modular design** and **user-centric feedback** in building reliable applications.
+
+---
+
+# Enhancement Two: Algorithms and Data Structure
+
+---
+
+## 📌 Brief Description of the Artifact
+The artifact for **Milestone Three** is the search and filter enhancement implemented in my Kotlin-based Android application, **InventoryMate**. Created in **Fall 2025**, this enhancement introduces efficient algorithms and data structures to improve inventory management.  
+
+Key improvements include:
+- Replacing linear search with **binary search** on sorted lists  
+- Adding filtering capabilities based on **category** and **quantity**  
+- Seamless integration with the **RecyclerView** display for fast item management  
+
+---
+
+## 🎯 Justification for Inclusion in My ePortfolio
+I selected this artifact because it demonstrates my ability to apply **algorithmic thinking** and **data structure design** to a practical mobile application. It highlights my growth in computer science by showing how I can optimize performance and scalability through:
+
+- Binary search implementation for efficient lookups  
+- Modular utility functions for reusable search and filter logic  
+- Structured data modeling with category support  
+- Performance optimization in RecyclerView using **DiffUtil**  
+- Integration of algorithms into a user-facing interface  
+
+This artifact bridges **theoretical knowledge of algorithms** with **real-world application development**, strengthening my ePortfolio by showing that I can build functional apps and enhance them with efficient, maintainable, and scalable solutions.
+
+---
+
+## 🛠️ Key Components That Showcase My Skills
+- Binary search replacing linear search for improved efficiency  
+- Filter functions supporting category and quantity constraints  
+- Modular design in `InventoryUtils.kt` for reusable algorithmic logic  
+- DiffUtil integration for optimized RecyclerView updates  
+- Database schema updates to support structured data with categories  
+
+---
+
+## ✅ Course Outcomes Met
+I successfully met the Module One outcomes I planned for:
+- Implementing and evaluating algorithms to improve application performance  
+- Designing and applying data structures to support scalable solutions  
+- Integrating algorithmic logic into user-facing features for enhanced usability  
+
+---
+
+## 🔍 Reflection on the Enhancement Process
+Enhancing **InventoryMate** with search and filter functionality taught me how to:
+- Apply binary search to real-world datasets for performance gains  
+- Refactor data models to support structured filtering (adding category fields)  
+- Use **DiffUtil** to optimize RecyclerView updates and reduce unnecessary redraws  
+- Balance algorithmic improvements with user interface integration  
+
+**Challenges faced:**
+- Updating the database schema and queries to include category support  
+- Debugging type mismatches when refactoring `InventoryItem` and adapter logic  
+- Ensuring filters worked seamlessly when combined with search queries  
+- Managing UI state across multiple filter inputs (search bar, spinner, seekbar)  
+
+This process deepened my understanding of how **algorithms and data structures directly impact application performance and user experience**. It reinforced the importance of **modular design**, **efficient data handling**, and thoughtful integration of algorithmic logic into real-world software solutions.
+
+---
+
+# Enhancement Three: Databases
 
 ---
