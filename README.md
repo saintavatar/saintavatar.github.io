@@ -18,12 +18,12 @@ My experience with Project Three and really the Project in its entirety has been
 
 
 
-# Code Review Video
-
-<a href="{{ site.code_review_video }}" target="_blank" 
-   style="display:inline-block; padding:10px 20px; background-color:#007acc; color:#fff; 
+<h2>Code Review Video</h2>
+<a href="https://youtu.be/KQWZkkFlBgY" target="_blank"
+   style="display:inline-block; padding:10px 20px; background-color:#007acc; color:#fff;
           text-decoration:none; border-radius:5px; font-weight:bold;">
    ▶ Watch My Code Review
 </a>
+
 
 
