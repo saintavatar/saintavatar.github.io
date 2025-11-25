@@ -1,6 +1,7 @@
 # About Me:
 
 My name is Joe, I am 44 years old, married and have kids. I started college in Oct. of 22’ and I am pursuing a **Bachelor’s degree in Computer Science** with a minor in **Applied Mathematics**.
+
 I am on track to begin my **Masters in Management with a concentration in Construction Management** in February, 
 as I have spent 23 years in this field and technology is starting to overlap into this field as it is with other fields.  
 I completed my **CompTIA ITF+** certification, and I am studying **Security+**.
