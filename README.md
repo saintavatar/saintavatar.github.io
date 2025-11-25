@@ -16,6 +16,9 @@ While I don’t have the intention of launching my app, maybe in the future I mi
 My experience with Project Three and really the Project in its entirety has been valuable in designing, implementing and launching an application. This experience will help me in future endeavors and if at some point I launch the application, I would have this as proven experience in launching an application to showcase.
 
 
+<h1>{{ site.title }}</h1>
+<p>{{ site.description }}</p>
+
 <h2>Code Review Video</h2>
 <p>Watch my code review <a href="{{ site.code_review_video }}" target="_blank">here</a>.</p>
 
