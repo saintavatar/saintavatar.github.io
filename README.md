@@ -147,10 +147,75 @@ Enhancing **InventoryMate** with search and filter functionality taught me how t
 - Ensuring filters worked seamlessly when combined with search queries  
 - Managing UI state across multiple filter inputs (search bar, spinner, seekbar)  
 
-This process deepened my understanding of how **algorithms and data structures directly impact application performance and user experience**. It reinforced the importance of **modular design**, **efficient data handling**, and thoughtful integration of algorithmic logic into real-world software solutions.
+This process deepened my understanding of how **algorithms and data structures directly impact application performance and user experience**. 
+It reinforced the importance of **modular design**, **efficient data handling**, and thoughtful integration of algorithmic logic into real-world software solutions.
 
 ---
 
 # Enhancement Three: Databases
 
 ---
+
+## 📌 Brief description of the artifact
+The artifact for **Milestone Four** is the enhanced version of my Kotlin-based Android application, **InventoryMate**, 
+developed during my software development coursework in **2025**. 
+This enhancement focuses on robust database design, defensive programming, and interoperability features to improve data integrity and user experience.
+
+**Key improvements include:**
+- Category assignment using a normalized SQLite schema with **foreign key constraints**
+- **Case-insensitive** item handling to prevent duplicate entries
+- **CSV export** functionality for clean external data use
+- UI refinements with **spinners**, **RecyclerView adapters**, and **dynamic filtering**
+
+---
+
+## 🎯 Justification for inclusion in my ePortfolio
+I selected this artifact because it demonstrates my ability to apply **software engineering best practices** to a real-world application. 
+It showcases my growth in full-stack development and highlights how I iteratively improved InventoryMate to support scalability, reliability, and usability.
+
+**Key skills demonstrated include:**
+- **Database normalization** with category tables and foreign key constraints
+- **Defensive programming** using null safety, error handling, and case-insensitive queries
+- **UI development** with dynamic filtering and polished item presentation
+- **CSV export** integration for external data sharing and auditability
+
+These enhancements transformed InventoryMate from a basic inventory tracker into a robust, 
+user-friendly tool with strong data integrity and professional polish.
+
+---
+
+## 🛠️ Key components that showcase my skills
+- **Normalized SQLite schema:** Category management via foreign keys and clean relationships
+- **Case-insensitive matching:** SQL `LOWER()` usage to prevent duplicates
+- **Defensive programming:** Null safety, validation, and clear error handling
+- **CSV export:** Formatted output for external use and auditing
+- **UI refinements:** Capitalized display names and dynamic filter controls
+
+---
+
+## ✅ Course outcomes met
+I successfully met the Module One outcomes I planned for:
+- **Full-stack features** with database integration
+- **Defensive programming** to improve reliability and maintainability
+- **User experience enhancements** through thoughtful UI design and data handling
+
+I also expanded my outcome coverage by integrating **CSV export** and 
+refining **data normalization**, which became essential as the project evolved.
+
+---
+
+## 🔍 Reflection on the enhancement process
+Enhancing **InventoryMate** with database and defensive programming features taught me how to:
+- Normalize data to prevent inconsistencies and improve query reliability
+- Use SQL functions like `LOWER()` for case-insensitive matching
+- Design UI components that balance clarity, functionality, and user control
+- Implement export features that support interoperability and external reporting
+
+**Challenges faced:**
+- Debugging database queries that failed with mixed-case input
+- Ensuring category IDs were correctly linked to inventory items
+- Managing RecyclerView updates efficiently using **DiffUtil**
+
+Each challenge required research, testing, and refinement. This process strengthened my **problem-solving skills, 
+adaptability, and confidence** in building maintainable, user-centered applications.
+
