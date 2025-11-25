@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/cyberpunk_yellow2">
+
+    <TextView
+        android:id="@+id/screen_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/SMS_Permission"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:gravity="center"
+        android:paddingBottom="16dp"/>
+
+
+    <TextView
+        android:id="@+id/sms_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/grant_permission1"
+        android:textSize="16sp"
+        android:textColor="@android:color/black"
+        android:paddingBottom="12dp"
+        />
+
+    <Button
+        android:id="@+id/request_sms_permission"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/grant_permission2"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="#212121"
+        android:textColor="#FFD700"/>
+
+    <TextView
+        android:id="@+id/permission_status"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="14sp"
+        android:textColor="@android:color/holo_red_dark"
+        android:paddingTop="12dp" />
+</LinearLayout>

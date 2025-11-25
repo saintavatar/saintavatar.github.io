@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/cyberpunk_yellow2">
+
+    <!-- Title -->
+    <TextView
+        android:id="@+id/data_grid_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="16dp"
+        android:text="@string/inventory_title"
+        android:textColor="@color/black"
+        android:textSize="24sp" />
+    <Button
+        android:id="@+id/export_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="@color/black"
+        android:text="@string/export_csv"
+        android:textColor="@color/cyberpunk_yellow2" />
+
+    <!-- Search bar -->
+    <EditText
+        android:id="@+id/search_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/search_hint"
+        android:inputType="text"
+        android:autofillHints="username"
+        android:padding="8dp"
+        android:background="@android:drawable/edit_text"
+        android:backgroundTint="@color/cyberpunk_yellow2"
+        android:textColorHint="@color/black"
+        android:textColor="@color/black"
+        android:layout_marginBottom="8dp"/>
+
+    <!-- Category filter -->
+    <Spinner
+        android:id="@+id/category_spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:backgroundTint="@color/black"
+        android:spinnerMode="dropdown"
+        android:theme="@style/SpinnerTextStyle"
+        android:popupTheme="@style/SpinnerPopupStyle"/>
+
+    <!-- Quantity filter -->
+    <TextView
+        android:id="@+id/qty_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/min_quantity"
+        android:textColor="@color/black"
+        android:layout_marginBottom="4dp"/>
+
+    <SeekBar
+        android:id="@+id/qty_seekbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:max="100"
+        android:progress="0" />
+
+    <!-- RecyclerView -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/inventory_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:clipToPadding="false"
+        android:padding="8dp"
+        android:scrollbars="vertical" />
+
+    <!-- Action buttons -->
+    <Button
+        android:id="@+id/add_data_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:backgroundTint="@color/black"
+        android:text="@string/add_item"
+        android:textColor="@color/cyberpunk_yellow2" />
+
+    <Button
+        android:id="@+id/remove_item_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="@color/black"
+        android:text="@string/remove_item"
+        android:textColor="@color/cyberpunk_yellow2" />
+
+    <Button
+        android:id="@+id/logout_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:backgroundTint="@color/black"
+        android:text="@string/logout"
+        android:textColor="@color/cyberpunk_yellow2" />
+
+
+
+</LinearLayout>
