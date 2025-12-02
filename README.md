@@ -1,4 +1,4 @@
-## 👷‍♂️ About Me
+# 👷‍♂️ About Me
 
 I'm Joseph Roberts — a seasoned ironworker turned software developer, blending 23 years of field leadership with a growing mastery of computer science. My journey from steel erection to scalable systems reflects a passion for modernizing construction workflows through thoughtful design, robust code, and real-world problem solving. This ePortfolio showcases my transition, technical growth, and capstone project *InventoryMate*, built to streamline inventory tracking for field crews.
 
@@ -26,13 +26,13 @@ My app still has features that can be implemented, and I plan to continue tinker
 
 ---
 
-## 🔧 Project Enhancements
+# 🔧 Project Enhancements
 
 Explore how I iteratively improved InventoryMate through targeted enhancements in software design, algorithms, and database architecture. Each milestone reflects my growth in applying computer science principles to real-world mobile development.
 
 ---
 
-### 🔮 Enhancement One: Software Design and Engineering
+# 🔮 Enhancement One: Software Design and Engineering
 
 This enhancement focused on building a full-stack Android application with secure login, SMS alerts, and modular architecture. I implemented session-based personalization, dynamic message generation, and modern permission handling using `ActivityResultContracts`. The app responds to real-world operational needs by notifying users when inventory levels fall below a threshold, showcasing my ability to integrate system services and design user-friendly interfaces.
 
@@ -46,7 +46,7 @@ Key skills demonstrated include:
 
 ---
 
-### 🔮 Enhancement Two: Algorithms and Data Structure
+# 🔮 Enhancement Two: Algorithms and Data Structure
 
 This enhancement introduced binary search and category-based filtering to improve performance and usability. I replaced linear search with binary search on sorted lists and added modular filter logic for category and quantity constraints. These improvements were integrated into the RecyclerView display using `DiffUtil`, demonstrating my ability to apply algorithmic thinking and structured data modeling in a mobile context.
 
@@ -60,7 +60,7 @@ Key skills demonstrated include:
 
 ---
 
-### 🔮 Enhancement Three: Databases
+# 🔮 Enhancement Three: Databases
 
 This enhancement focused on robust database design, defensive programming, and CSV export functionality. I normalized the SQLite schema with foreign key constraints, implemented case-insensitive matching using SQL `LOWER()`, and added export features for external reporting. UI refinements included spinners for category selection and dynamic filtering controls, reinforcing my ability to build scalable, reliable, and user-friendly systems.
 
