@@ -17,14 +17,6 @@ My app still has features that can be implemented, and I plan to continue tinker
 
 ---
 
-## 📄 Project Narratives
-
-- [Milestone 2 Narrative](https://github.com/saintavatar/saintavatar.github.io/blob/main/Milestone%202%20Narrative.docx)
-- [Milestone 3 Narrative](https://github.com/saintavatar/saintavatar.github.io/blob/main/Milestone%203%20Narrative.docx)
-- [Milestone 4 Narrative](https://github.com/saintavatar/saintavatar.github.io/blob/main/Milestone%204%20Narrative.docx)
-
----
-
 # 🎥 Code Review Video
 <a href="https://youtu.be/KQWZkkFlBgY" target="_blank"
    style="display:inline-block; padding:10px 20px; background-color:#007acc; color:#fff;
@@ -34,197 +26,49 @@ My app still has features that can be implemented, and I plan to continue tinker
 
 ---
 
-# 🔮 Enhancement One: Software Design and Engineering
+## 🔧 Project Enhancements
+
+Explore how I iteratively improved InventoryMate through targeted enhancements in software design, algorithms, and database architecture. Each milestone reflects my growth in applying computer science principles to real-world mobile development.
 
 ---
 
-## 📌 Brief Description of the Artifact
-**InventoryMate** is a Kotlin-based Android application designed to simplify inventory tracking for users managing supplies, tools, or stock.  
-Created in **Fall 2025**, the app allows users to:
-- Log in securely
-- Add and update items
-- Receive SMS alerts when inventory levels fall below a defined threshold
+### 🔮 Enhancement One: Software Design and Engineering
 
-It features:
-- Grid-based item display  
-- Persistent storage via **SQLite**  
-- Modern permission handling for SMS functionality  
+This enhancement focused on building a full-stack Android application with secure login, SMS alerts, and modular architecture. I implemented session-based personalization, dynamic message generation, and modern permission handling using `ActivityResultContracts`. The app responds to real-world operational needs by notifying users when inventory levels fall below a threshold, showcasing my ability to integrate system services and design user-friendly interfaces.
 
----
-
-## 🎯 Justification for Inclusion in My ePortfolio
-I selected **InventoryMate** because it demonstrates my ability to design and implement a full-stack mobile solution that responds to real-world operational needs. It reflects my growth in software development, particularly in:
-
-- Modular architecture and clean UI design  
-- Database integration using SQLite  
-- System service interaction via **SmsManager**  
-- Session management with **SharedPreferences**  
-- Modern Android practices like **ActivityResultContracts** and **KTX extensions**  
-
-This artifact bridges my **23 years of field experience in construction and logistics** with my evolving technical skillset, showcasing how I can translate workflow challenges into scalable digital tools.
-
----
-
-## 🛠️ Key Components That Showcase My Skills
+Key skills demonstrated include:
 - SMS alert system triggered by low-stock conditions  
-- Permission handling that adapts to user responses  
-- Dynamic message generation with item-specific details  
-- Debugging and logging using **Logcat** to trace silent failures  
-- Session-based personalization for user-specific notifications  
+- Session management with `SharedPreferences`  
+- Debugging silent failures using `Logcat`  
+- UI design with grid-based item display and dynamic feedback  
+
+📄 [View Enhancement One Narrative](https://github.com/saintavatar/saintavatar.github.io/blob/main/Milestone%202%20Narrative.docx)
 
 ---
 
-## ✅ Course Outcomes Met
-I successfully met the Module One outcomes I planned for:
-- Implementing mobile features that respond to real-world conditions  
-- Enhancing user experience through automation and feedback  
-- Applying Kotlin idioms and Android architecture principles  
+### 🔮 Enhancement Two: Algorithms and Data Structure
 
----
+This enhancement introduced binary search and category-based filtering to improve performance and usability. I replaced linear search with binary search on sorted lists and added modular filter logic for category and quantity constraints. These improvements were integrated into the RecyclerView display using `DiffUtil`, demonstrating my ability to apply algorithmic thinking and structured data modeling in a mobile context.
 
-## 🔍 Reflection on the Enhancement Process
-Enhancing **InventoryMate** taught me how to:
-- Debug silent failures by tracing execution with **Logcat**  
-- Refactor hardcoded logic into dynamic, data-driven flows  
-- Use **KTX extensions** for cleaner, idiomatic Kotlin  
-- Ensure cross-activity data persistence with **SharedPreferences**  
-
-**Challenges faced:**
-- Diagnosing why SMS wasn’t triggering due to missing session data  
-- Ensuring compatibility across Android versions for **SmsManager**  
-- Balancing UI feedback with background logic  
-- Handling permission denial gracefully while maintaining app functionality  
-
-This process deepened my understanding of **Android lifecycle events**, **permission models**, and the importance of traceable logging in mobile development. It also reinforced the value of **modular design** and **user-centric feedback** in building reliable applications.
-
----
-
-# 🔮 Enhancement Two: Algorithms and Data Structure
-
----
-
-## 📌 Brief Description of the Artifact
-The artifact for **Milestone Three** is the search and filter enhancement implemented in my Kotlin-based Android application, **InventoryMate**. Created in **Fall 2025**, this enhancement introduces efficient algorithms and data structures to improve inventory management.  
-
-Key improvements include:
-- Replacing linear search with **binary search** on sorted lists  
-- Adding filtering capabilities based on **category** and **quantity**  
-- Seamless integration with the **RecyclerView** display for fast item management  
-
----
-
-## 🎯 Justification for Inclusion in My ePortfolio
-I selected this artifact because it demonstrates my ability to apply **algorithmic thinking** and **data structure design** to a practical mobile application. It highlights my growth in computer science by showing how I can optimize performance and scalability through:
-
-- Binary search implementation for efficient lookups  
-- Modular utility functions for reusable search and filter logic  
+Key skills demonstrated include:
+- Binary search for efficient item lookup  
+- Modular filter functions in `InventoryUtils.kt`  
+- Optimized RecyclerView updates with `DiffUtil`  
 - Structured data modeling with category support  
-- Performance optimization in RecyclerView using **DiffUtil**  
-- Integration of algorithms into a user-facing interface  
 
-This artifact bridges **theoretical knowledge of algorithms** with **real-world application development**, strengthening my ePortfolio by showing that I can build functional apps and enhance them with efficient, maintainable, and scalable solutions.
+📄 [View Enhancement Two Narrative](https://github.com/saintavatar/saintavatar.github.io/blob/main/Milestone%203%20Narrative.docx)
 
 ---
 
-## 🛠️ Key Components That Showcase My Skills
-- Binary search replacing linear search for improved efficiency  
-- Filter functions supporting category and quantity constraints  
-- Modular design in `InventoryUtils.kt` for reusable algorithmic logic  
-- DiffUtil integration for optimized RecyclerView updates  
-- Database schema updates to support structured data with categories  
+### 🔮 Enhancement Three: Databases
 
----
+This enhancement focused on robust database design, defensive programming, and CSV export functionality. I normalized the SQLite schema with foreign key constraints, implemented case-insensitive matching using SQL `LOWER()`, and added export features for external reporting. UI refinements included spinners for category selection and dynamic filtering controls, reinforcing my ability to build scalable, reliable, and user-friendly systems.
 
-## ✅ Course Outcomes Met
-I successfully met the Module One outcomes I planned for:
-- Implementing and evaluating algorithms to improve application performance  
-- Designing and applying data structures to support scalable solutions  
-- Integrating algorithmic logic into user-facing features for enhanced usability  
+Key skills demonstrated include:
+- Normalized SQLite schema with foreign key constraints  
+- Defensive programming with null safety and validation  
+- CSV export for auditability and interoperability  
+- UI enhancements for clarity and control  
 
----
-
-## 🔍 Reflection on the Enhancement Process
-Enhancing **InventoryMate** with search and filter functionality taught me how to:
-- Apply binary search to real-world datasets for performance gains  
-- Refactor data models to support structured filtering (adding category fields)  
-- Use **DiffUtil** to optimize RecyclerView updates and reduce unnecessary redraws  
-- Balance algorithmic improvements with user interface integration  
-
-**Challenges faced:**
-- Updating the database schema and queries to include category support  
-- Debugging type mismatches when refactoring `InventoryItem` and adapter logic  
-- Ensuring filters worked seamlessly when combined with search queries  
-- Managing UI state across multiple filter inputs (search bar, spinner, seekbar)  
-
-This process deepened my understanding of how **algorithms and data structures directly impact application performance and user experience**. 
-It reinforced the importance of **modular design**, **efficient data handling**, and thoughtful integration of algorithmic logic into real-world software solutions.
-
----
-
-# 🔮 Enhancement Three: Databases
-
----
-
-## 📌 Brief description of the artifact
-The artifact for **Milestone Four** is the enhanced version of my Kotlin-based Android application, **InventoryMate**, 
-developed during my software development coursework in **2025**. 
-This enhancement focuses on robust database design, defensive programming, and interoperability features to improve data integrity and user experience.
-
-**Key improvements include:**
-- Category assignment using a normalized SQLite schema with **foreign key constraints**
-- **Case-insensitive** item handling to prevent duplicate entries
-- **CSV export** functionality for clean external data use
-- UI refinements with **spinners**, **RecyclerView adapters**, and **dynamic filtering**
-
----
-
-## 🎯 Justification for inclusion in my ePortfolio
-I selected this artifact because it demonstrates my ability to apply **software engineering best practices** to a real-world application. 
-It showcases my growth in full-stack development and highlights how I iteratively improved InventoryMate to support scalability, reliability, and usability.
-
-**Key skills demonstrated include:**
-- **Database normalization** with category tables and foreign key constraints
-- **Defensive programming** using null safety, error handling, and case-insensitive queries
-- **UI development** with dynamic filtering and polished item presentation
-- **CSV export** integration for external data sharing and auditability
-
-These enhancements transformed InventoryMate from a basic inventory tracker into a robust, 
-user-friendly tool with strong data integrity and professional polish.
-
----
-
-## 🛠️ Key components that showcase my skills
-- **Normalized SQLite schema:** Category management via foreign keys and clean relationships
-- **Case-insensitive matching:** SQL `LOWER()` usage to prevent duplicates
-- **Defensive programming:** Null safety, validation, and clear error handling
-- **CSV export:** Formatted output for external use and auditing
-- **UI refinements:** Capitalized display names and dynamic filter controls
-
----
-
-## ✅ Course outcomes met
-I successfully met the Module One outcomes I planned for:
-- **Full-stack features** with database integration
-- **Defensive programming** to improve reliability and maintainability
-- **User experience enhancements** through thoughtful UI design and data handling
-
-I also expanded my outcome coverage by integrating **CSV export** and 
-refining **data normalization**, which became essential as the project evolved.
-
----
-
-## 🔍 Reflection on the enhancement process
-Enhancing **InventoryMate** with database and defensive programming features taught me how to:
-- Normalize data to prevent inconsistencies and improve query reliability
-- Use SQL functions like `LOWER()` for case-insensitive matching
-- Design UI components that balance clarity, functionality, and user control
-- Implement export features that support interoperability and external reporting
-
-**Challenges faced:**
-- Debugging database queries that failed with mixed-case input
-- Ensuring category IDs were correctly linked to inventory items
-- Managing RecyclerView updates efficiently using **DiffUtil**
-
-Each challenge required research, testing, and refinement. This process strengthened my **problem-solving skills, 
-adaptability, and confidence** in building maintainable, user-centered applications.
+📄 [View Enhancement Three Narrative](https://github.com/saintavatar/saintavatar.github.io/blob/main/Milestone%204%20Narrative.docx)
 
