@@ -2,7 +2,7 @@
 
 I'm Joseph Roberts — a seasoned ironworker turned software developer, blending 23 years of field leadership with a growing mastery of computer science. My journey from steel erection to scalable systems reflects a passion for modernizing construction workflows through thoughtful design, robust code, and real-world problem solving. This ePortfolio showcases my transition, technical growth, and capstone project *InventoryMate*, built to streamline inventory tracking for field crews.
 
-👉 [Read my full Professional Self-Assessment](https://github.com/saintavatar/saintavatar.github.io/blob/main/Professional%20Self-Assessment.docx)
+## 👉 [Read my full Professional Self-Assessment](https://github.com/saintavatar/saintavatar.github.io/blob/main/Professional%20Self-Assessment.docx)
 _Last updated: December 2025_
 
 ---
@@ -42,7 +42,7 @@ Key skills demonstrated include:
 - Debugging silent failures using `Logcat`  
 - UI design with grid-based item display and dynamic feedback  
 
-📄 [View Enhancement One Narrative](https://github.com/saintavatar/saintavatar.github.io/blob/main/Milestone%202%20Narrative.docx)
+## 📄 [View Enhancement One Narrative](https://github.com/saintavatar/saintavatar.github.io/blob/main/Milestone%202%20Narrative.docx)
 
 ---
 
@@ -56,7 +56,7 @@ Key skills demonstrated include:
 - Optimized RecyclerView updates with `DiffUtil`  
 - Structured data modeling with category support  
 
-📄 [View Enhancement Two Narrative](https://github.com/saintavatar/saintavatar.github.io/blob/main/Milestone%203%20Narrative.docx)
+## 📄 [View Enhancement Two Narrative](https://github.com/saintavatar/saintavatar.github.io/blob/main/Milestone%203%20Narrative.docx)
 
 ---
 
@@ -70,5 +70,5 @@ Key skills demonstrated include:
 - CSV export for auditability and interoperability  
 - UI enhancements for clarity and control  
 
-📄 [View Enhancement Three Narrative](https://github.com/saintavatar/saintavatar.github.io/blob/main/Milestone%204%20Narrative.docx)
+## 📄 [View Enhancement Three Narrative](https://github.com/saintavatar/saintavatar.github.io/blob/main/Milestone%204%20Narrative.docx)
 
