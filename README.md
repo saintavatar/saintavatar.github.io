@@ -1,4 +1,4 @@
-# About Me
+# 🔮 About Me
 My name is Joe, I am 44 years old, married, and have kids. I started college in October 2022 and am pursuing a **Bachelor’s degree in Computer Science** with a minor in **Applied Mathematics**.
 
 I am on track to begin my **Master’s in Management with a concentration in Construction Management** in February. With 23 years of experience in this field, I’m excited to see how technology is increasingly overlapping with construction and other industries.  
@@ -6,7 +6,20 @@ I completed my **CompTIA ITF+** certification and am currently studying **Securi
 
 ---
 
-# CS-499 Capstone and Artifact
+## 🔮 Start Professional Self-Assessment 12/01/25
+
+As I continue evolving from ironworker to innovator, I plan to assess my growth in the following areas:
+
+- **TEST Technical Mastery:** Deepen my expertise in database optimization, scalable backend systems, and secure mobile development.
+- **TEST User-Centered Design:** Refine UI/UX strategies to enhance clarity, accessibility, and responsiveness across platforms.
+- **TEST Workflow Modernization:** Integrate construction technologies like BIM, Procore, and mobile apps to streamline field operations.
+- **TEST Strategic Leadership:** Transition into tech-enabled management roles that bridge field experience with digital innovation.
+
+_Last updated: December 2025_
+
+---
+
+# 🔮 CS-499 Capstone and Artifact
 For this course, I selected an inventory application I created during my CS-360 course called **InventoryMate**.  
 The following is my reflection at the end of the course. I will follow up with a new reflection/assessment upon completion of the capstone.
 
@@ -25,7 +38,7 @@ My app still has features that can be implemented, and I plan to continue tinker
 
 ---
 
-# Enhancement One: Software Design and Engineering
+# 🔮 Enhancement One: Software Design and Engineering
 
 ---
 
@@ -90,7 +103,7 @@ This process deepened my understanding of **Android lifecycle events**, **permis
 
 ---
 
-# Enhancement Two: Algorithms and Data Structure
+# 🔮 Enhancement Two: Algorithms and Data Structure
 
 ---
 
@@ -152,7 +165,7 @@ It reinforced the importance of **modular design**, **efficient data handling**,
 
 ---
 
-# Enhancement Three: Databases
+# 🔮 Enhancement Three: Databases
 
 ---
 
