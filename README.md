@@ -8,7 +8,7 @@ _Last updated: December 2025_
 ---
 
 # 🔮 CS-499 Capstone and Artifact
-For this course, I selected an inventory application I created during my CS-360 course called **InventoryMate**.  
+For this course, I selected an inventory application I created during my CS-360 course called ***InventoryMate***.  
 The following is my reflection at the end of the course. I will follow up with a new reflection/assessment upon completion of the capstone.
 
 I had never done much tinkering with apps before. While I’ve always appreciated them, I hadn’t considered developing one myself. Over the last few weeks, I had the opportunity to do so, and it was a great experience. I found it fascinating to design navigation between screens and build the logic that allows a button click to instantly move to the next screen.
@@ -28,7 +28,7 @@ My app still has features that can be implemented, and I plan to continue tinker
 
 # 🔧 Project Enhancements
 
-Explore how I iteratively improved InventoryMate through targeted enhancements in software design, algorithms, and database architecture. Each milestone reflects my growth in applying computer science principles to real-world mobile development.
+Explore how I iteratively improved ***InventoryMate*** through targeted enhancements in software design, algorithms, and database architecture. Each milestone reflects my growth in applying computer science principles to real-world mobile development.
 
 ---
 
