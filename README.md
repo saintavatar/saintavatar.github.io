@@ -29,6 +29,14 @@ My app still has features that can be implemented, and I plan to continue tinker
 
 ---
 
+## 📄 Project Narratives
+
+- [Milestone 2 Narrative](https://github.com/saintavatar/saintavatar.github.io/blob/main/Milestone%202%20Narrative.docx)
+- [Milestone 3 Narrative](https://github.com/saintavatar/saintavatar.github.io/blob/main/Milestone%203%20Narrative.docx)
+- [Milestone 4 Narrative](https://github.com/saintavatar/saintavatar.github.io/blob/main/Milestone%204%20Narrative.docx)
+
+---
+
 # 🎥 Code Review Video
 <a href="https://youtu.be/KQWZkkFlBgY" target="_blank"
    style="display:inline-block; padding:10px 20px; background-color:#007acc; color:#fff;
