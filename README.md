@@ -1,20 +1,8 @@
-# 🔮 About Me
-My name is Joe, I am 44 years old, married, and have kids. I started college in October 2022 and am pursuing a **Bachelor’s degree in Computer Science** with a minor in **Applied Mathematics**.
+## 👷‍♂️ About Me
 
-I am on track to begin my **Master’s in Management with a concentration in Construction Management** in February. With 23 years of experience in this field, I’m excited to see how technology is increasingly overlapping with construction and other industries.  
-I completed my **CompTIA ITF+** certification and am currently studying **Security+**.
+I'm Joseph Roberts — a seasoned ironworker turned software developer, blending 23 years of field leadership with a growing mastery of computer science. My journey from steel erection to scalable systems reflects a passion for modernizing construction workflows through thoughtful design, robust code, and real-world problem solving. This ePortfolio showcases my transition, technical growth, and capstone project *InventoryMate*, built to streamline inventory tracking for field crews.
 
----
-
-## 🔮 Start Professional Self-Assessment 12/01/25
-
-As I continue evolving from ironworker to innovator, I plan to assess my growth in the following areas:
-
-- **TEST Technical Mastery:** Deepen my expertise in database optimization, scalable backend systems, and secure mobile development.
-- **TEST User-Centered Design:** Refine UI/UX strategies to enhance clarity, accessibility, and responsiveness across platforms.
-- **TEST Workflow Modernization:** Integrate construction technologies like BIM, Procore, and mobile apps to streamline field operations.
-- **TEST Strategic Leadership:** Transition into tech-enabled management roles that bridge field experience with digital innovation.
-
+👉 [Read my full Professional Self-Assessment](https://github.com/saintavatar/saintavatar.github.io/blob/main/Professional%20Self-Assessment.docx)
 _Last updated: December 2025_
 
 ---
