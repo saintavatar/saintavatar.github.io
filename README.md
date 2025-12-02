@@ -56,7 +56,7 @@ Key skills demonstrated include:
 - Optimized RecyclerView updates with `DiffUtil`  
 - Structured data modeling with category support  
 
-## 📄 [View Enhancement Two Narrative](https://github.com/saintavatar/saintavatar.github.io/blob/main/Milestone%203%20Narrative.docx)
+## 📄 [View Enhancement Two Narrative](https://raw.githubusercontent.com/saintavatar/saintavatar.github.io/main/InventoryApp%3B%20Final/Milestone%203%20Narrative.docx)
 
 ---
 
