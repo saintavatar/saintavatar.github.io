@@ -17,6 +17,10 @@ My app still has features that can be implemented, and I plan to continue tinker
 
 ---
 
+## 📄 [View Original Artifact](https://github.com/saintavatar/saintavatar.github.io/tree/main/InventoryApp%3B%20Joseph%20Roberts-Original)
+
+---
+
 # 🎥 Code Review Video
 <a href="https://youtu.be/KQWZkkFlBgY" target="_blank"
    style="display:inline-block; padding:10px 20px; background-color:#007acc; color:#fff;
